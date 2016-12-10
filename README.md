@@ -13,7 +13,8 @@
     [self.view addSubview:verView];
 
 ```
-2.效果图如下：
+2.效果图：
 
+![image](https://github.com/meiqi1992/MQVerCodeInputView/blob/master/verCodeView.gif)
 
 
